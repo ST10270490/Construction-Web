@@ -15,6 +15,7 @@ namespace ConstructionWeb.Controllers
 
         public IActionResult Index()
         {
+            
             return View();
         }
 
