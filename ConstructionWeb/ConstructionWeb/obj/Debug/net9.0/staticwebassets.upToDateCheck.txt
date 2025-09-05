@@ -4,6 +4,7 @@ C:\Users\lab_services_student\Desktop\GitHub\Construction-Web\ConstructionWeb\Co
 C:\Users\lab_services_student\Desktop\GitHub\Construction-Web\ConstructionWeb\ConstructionWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
 C:\Users\lab_services_student\Desktop\GitHub\Construction-Web\ConstructionWeb\ConstructionWeb\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
 C:\Users\lab_services_student\Desktop\GitHub\Construction-Web\ConstructionWeb\ConstructionWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\lab_services_student\Desktop\GitHub\Construction-Web\ConstructionWeb\ConstructionWeb\wwwroot\js\_Layout.js
 C:\Users\lab_services_student\Desktop\GitHub\Construction-Web\ConstructionWeb\ConstructionWeb\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
 C:\Users\lab_services_student\Desktop\GitHub\Construction-Web\ConstructionWeb\ConstructionWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
 C:\Users\lab_services_student\Desktop\GitHub\Construction-Web\ConstructionWeb\ConstructionWeb\wwwroot\lib\jquery-validation\dist\additional-methods.js
@@ -62,6 +63,7 @@ C:\Users\lab_services_student\Desktop\GitHub\Construction-Web\ConstructionWeb\Co
 C:\Users\lab_services_student\Desktop\GitHub\Construction-Web\ConstructionWeb\ConstructionWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\js\_Layout.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

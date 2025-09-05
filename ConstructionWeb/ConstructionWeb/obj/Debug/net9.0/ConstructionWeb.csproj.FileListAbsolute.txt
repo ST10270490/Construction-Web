@@ -18,7 +18,6 @@ C:\Users\lab_services_student\Desktop\GitHub\Construction-Web\ConstructionWeb\Co
 C:\Users\lab_services_student\Desktop\GitHub\Construction-Web\ConstructionWeb\ConstructionWeb\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\lab_services_student\Desktop\GitHub\Construction-Web\ConstructionWeb\ConstructionWeb\obj\Debug\net9.0\scopedcss\bundle\ConstructionWeb.styles.css
 C:\Users\lab_services_student\Desktop\GitHub\Construction-Web\ConstructionWeb\ConstructionWeb\obj\Debug\net9.0\scopedcss\projectbundle\ConstructionWeb.bundle.scp.css
-C:\Users\lab_services_student\Desktop\GitHub\Construction-Web\ConstructionWeb\ConstructionWeb\obj\Debug\net9.0\compressed\yn0dmvdkby-b9sayid5wm.gz
 C:\Users\lab_services_student\Desktop\GitHub\Construction-Web\ConstructionWeb\ConstructionWeb\obj\Debug\net9.0\compressed\sp68syapyu-61n19gt1b8.gz
 C:\Users\lab_services_student\Desktop\GitHub\Construction-Web\ConstructionWeb\ConstructionWeb\obj\Debug\net9.0\compressed\gjeuyt9zw8-xtxxf3hu2r.gz
 C:\Users\lab_services_student\Desktop\GitHub\Construction-Web\ConstructionWeb\ConstructionWeb\obj\Debug\net9.0\compressed\y8gdmsg4ji-bqjiyaj88i.gz
@@ -97,3 +96,5 @@ C:\Users\lab_services_student\Desktop\GitHub\Construction-Web\ConstructionWeb\Co
 C:\Users\lab_services_student\Desktop\GitHub\Construction-Web\ConstructionWeb\ConstructionWeb\obj\Debug\net9.0\ConstructionWeb.pdb
 C:\Users\lab_services_student\Desktop\GitHub\Construction-Web\ConstructionWeb\ConstructionWeb\obj\Debug\net9.0\ConstructionWeb.genruntimeconfig.cache
 C:\Users\lab_services_student\Desktop\GitHub\Construction-Web\ConstructionWeb\ConstructionWeb\obj\Debug\net9.0\ref\ConstructionWeb.dll
+C:\Users\lab_services_student\Desktop\GitHub\Construction-Web\ConstructionWeb\ConstructionWeb\obj\Debug\net9.0\compressed\yn0dmvdkby-3y8m7uxm6z.gz
+C:\Users\lab_services_student\Desktop\GitHub\Construction-Web\ConstructionWeb\ConstructionWeb\obj\Debug\net9.0\compressed\6fi44pirmx-ppv9f4cv4x.gz

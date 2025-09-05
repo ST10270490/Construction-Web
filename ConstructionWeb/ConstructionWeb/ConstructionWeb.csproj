@@ -6,4 +6,13 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Scripts\Home\" />
+    <Folder Include="Scripts\Shared\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\js\_Layout.js" />
+  </ItemGroup>
+
 </Project>
