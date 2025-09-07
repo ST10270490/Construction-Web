@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConstructionWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ec86855f6179bde4ac31c50e1c5ece551f084b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ef3ca5a1c4696f72aac3b702af75532919d6010")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConstructionWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConstructionWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,10 @@
+{
+  "version": "3.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "firebase@12.2.1",
+      "destination": "wwwroot/lib/firebase/"
+    }
+  ]
+}

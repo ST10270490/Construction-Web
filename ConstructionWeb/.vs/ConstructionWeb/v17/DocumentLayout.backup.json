@@ -1,37 +1,64 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\GitHub\\Construction-Web\\ConstructionWeb\\",
+  "WorkspaceRootPath": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|c:\\users\\lab_services_student\\desktop\\github\\construction-web\\constructionweb\\constructionweb\\wwwroot\\js\\_layout.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|solutionrelative:constructionweb\\wwwroot\\js\\_layout.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|c:\\users\\vashi\\desktop\\github\\construction-web\\constructionweb\\constructionweb\\wwwroot\\js\\authsignandlogin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|solutionrelative:constructionweb\\wwwroot\\js\\authsignandlogin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|c:\\users\\lab_services_student\\desktop\\github\\construction-web\\constructionweb\\constructionweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|c:\\users\\vashi\\desktop\\github\\construction-web\\constructionweb\\constructionweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|solutionrelative:constructionweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|c:\\users\\lab_services_student\\desktop\\github\\construction-web\\constructionweb\\constructionweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|solutionrelative:constructionweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|c:\\users\\vashi\\desktop\\github\\construction-web\\constructionweb\\constructionweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|solutionrelative:constructionweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|c:\\users\\lab_services_student\\desktop\\github\\construction-web\\constructionweb\\constructionweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|c:\\users\\vashi\\desktop\\github\\construction-web\\constructionweb\\constructionweb\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|solutionrelative:constructionweb\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|c:\\users\\vashi\\desktop\\github\\construction-web\\constructionweb\\constructionweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|solutionrelative:constructionweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|c:\\users\\vashi\\desktop\\github\\construction-web\\constructionweb\\constructionweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|solutionrelative:constructionweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|c:\\users\\vashi\\desktop\\github\\construction-web\\constructionweb\\constructionweb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|solutionrelative:constructionweb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vashi\\.nuget\\packages\\npm\\3.5.2\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|c:\\users\\vashi\\desktop\\github\\construction-web\\constructionweb\\constructionweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|solutionrelative:constructionweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|c:\\users\\vashi\\desktop\\github\\construction-web\\constructionweb\\constructionweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|solutionrelative:constructionweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|c:\\users\\lab_services_student\\desktop\\github\\construction-web\\constructionweb\\constructionweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|c:\\users\\vashi\\desktop\\github\\construction-web\\constructionweb\\constructionweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|solutionrelative:constructionweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|c:\\users\\vashi\\desktop\\github\\construction-web\\constructionweb\\constructionweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|solutionrelative:constructionweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|c:\\users\\lab_services_student\\desktop\\github\\construction-web\\constructionweb\\constructionweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|c:\\users\\vashi\\desktop\\github\\construction-web\\constructionweb\\constructionweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|solutionrelative:constructionweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|c:\\users\\lab_services_student\\desktop\\github\\construction-web\\constructionweb\\constructionweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|c:\\users\\vashi\\desktop\\github\\construction-web\\constructionweb\\constructionweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|solutionrelative:constructionweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|c:\\users\\lab_services_student\\desktop\\github\\construction-web\\constructionweb\\constructionweb\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|c:\\users\\vashi\\desktop\\github\\construction-web\\constructionweb\\constructionweb\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|solutionrelative:constructionweb\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
@@ -42,70 +69,147 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:1141890808:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthSignAndLogin.js",
+              "DocumentMoniker": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\wwwroot\\js\\AuthSignAndLogin.js",
+              "RelativeDocumentMoniker": "ConstructionWeb\\wwwroot\\js\\AuthSignAndLogin.js",
+              "ToolTip": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\wwwroot\\js\\AuthSignAndLogin.js",
+              "RelativeToolTip": "ConstructionWeb\\wwwroot\\js\\AuthSignAndLogin.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-07T13:59:50.604Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GitHub\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "ConstructionWeb\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GitHub\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "ConstructionWeb\\Views\\Home\\Privacy.cshtml",
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ConstructionWeb\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ConstructionWeb\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-05T07:28:30.638Z",
+              "WhenOpened": "2025-09-07T08:55:14.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.js",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GitHub\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\wwwroot\\js\\_Layout.js",
-              "RelativeDocumentMoniker": "ConstructionWeb\\wwwroot\\js\\_Layout.js",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GitHub\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\wwwroot\\js\\_Layout.js",
-              "RelativeToolTip": "ConstructionWeb\\wwwroot\\js\\_Layout.js",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-09-05T06:32:53.165Z",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ConstructionWeb\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ConstructionWeb\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-07T08:51:05.855Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "ConstructionWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\appsettings.json",
+              "RelativeToolTip": "ConstructionWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-07T08:49:50.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ConstructionWeb\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\appsettings.Development.json",
+              "RelativeToolTip": "ConstructionWeb\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-07T08:49:56.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\libman.json",
+              "RelativeDocumentMoniker": "ConstructionWeb\\libman.json",
+              "ToolTip": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\libman.json",
+              "RelativeToolTip": "ConstructionWeb\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-07T08:32:20.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\Vashi\\.nuget\\packages\\npm\\3.5.2\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\npm\\3.5.2\\readme.txt",
+              "ToolTip": "C:\\Users\\Vashi\\.nuget\\packages\\npm\\3.5.2\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\npm\\3.5.2\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-07T08:28:09.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\Program.cs",
+              "RelativeDocumentMoniker": "ConstructionWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\Program.cs",
+              "RelativeToolTip": "ConstructionWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T14:33:35.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ConstructionWeb\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ConstructionWeb\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-05T07:28:30.638Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GitHub\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ConstructionWeb\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GitHub\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ConstructionWeb\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB1AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-28T07:42:58.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GitHub\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ConstructionWeb\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GitHub\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "ConstructionWeb\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -113,37 +217,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GitHub\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ConstructionWeb\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GitHub\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ConstructionWeb\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-28T07:42:05.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T07:42:05.335Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GitHub\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "ConstructionWeb\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GitHub\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\wwwroot\\css\\site.css",
               "RelativeToolTip": "ConstructionWeb\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-08-28T06:56:22.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T06:56:22.238Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GitHub\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\wwwroot\\js\\site.js",
+              "DocumentMoniker": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "ConstructionWeb\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GitHub\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\wwwroot\\js\\site.js",
               "RelativeToolTip": "ConstructionWeb\\wwwroot\\js\\site.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -151,13 +253,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GitHub\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ConstructionWeb\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GitHub\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ConstructionWeb\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-28T06:52:29.172Z"
             }
