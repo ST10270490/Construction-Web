@@ -43,15 +43,18 @@ document.getElementById("authForm").addEventListener("submit", function (e) {
 });
 
 
+
 firebase.auth().currentUser.getIdToken(/* forceRefresh */ true)
     .then(function (idToken) {
-        // Send this token to your backend via AJAX or form
-        fetch("/Account/VerifyToken", {
-            method: "POST",
+        // Send this token to your backend via AJAX or fetch
+        fetch('/Account/VerifyToken', {
+            method: 'POST',
             headers: {
-                "Content-Type": "application/json"
+                'Content-Type': 'application/json'
             },
             body: JSON.stringify({ token: idToken })
         });
+    })
+    .catch(function (error) {
+        console.error('Error getting ID token:', error);
     });
-

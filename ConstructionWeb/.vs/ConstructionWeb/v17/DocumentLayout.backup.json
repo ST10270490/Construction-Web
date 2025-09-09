@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|c:\\users\\vashi\\desktop\\github\\construction-web\\constructionweb\\constructionweb\\wwwroot\\js\\authsignandlogin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|solutionrelative:constructionweb\\wwwroot\\js\\authsignandlogin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|c:\\users\\vashi\\desktop\\github\\construction-web\\constructionweb\\constructionweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|solutionrelative:constructionweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|c:\\users\\vashi\\desktop\\github\\construction-web\\constructionweb\\constructionweb\\wwwroot\\js\\authsignandlogin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|solutionrelative:constructionweb\\wwwroot\\js\\authsignandlogin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4C0F7BB-5F77-4AAD-924F-94EF0CB5B67A}|ConstructionWeb\\ConstructionWeb.csproj|c:\\users\\vashi\\desktop\\github\\construction-web\\constructionweb\\constructionweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -69,7 +69,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -77,13 +77,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AuthSignAndLogin.js",
               "DocumentMoniker": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\wwwroot\\js\\AuthSignAndLogin.js",
               "RelativeDocumentMoniker": "ConstructionWeb\\wwwroot\\js\\AuthSignAndLogin.js",
               "ToolTip": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\wwwroot\\js\\AuthSignAndLogin.js",
               "RelativeToolTip": "ConstructionWeb\\wwwroot\\js\\AuthSignAndLogin.js",
-              "ViewState": "AgIAABIAAAAAAAAAAAAUwDgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAowC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-09-07T13:59:50.604Z",
               "EditorCaption": ""
@@ -246,15 +246,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ConstructionWeb\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ConstructionWeb\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwBcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T06:52:29.172Z"
+              "WhenOpened": "2025-08-28T06:52:29.172Z",
+              "EditorCaption": ""
             }
           ]
         }
