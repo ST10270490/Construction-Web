@@ -13,8 +13,12 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\lab_services_student\\Desktop\\GitHub\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\wwwroot\\js\\_Layout.js",
-      "PackagePath": "staticwebassets\\js\\_Layout.js"
+      "Id": "C:\\Users\\lab_services_student\\Desktop\\GitHub\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\wwwroot\\js\\AuthSignAndLogin.js",
+      "PackagePath": "staticwebassets\\js\\AuthSignAndLogin.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\Desktop\\GitHub\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\wwwroot\\js\\constructionappnng-firebase-adminsdk-fbsvc-7beba39edf.json",
+      "PackagePath": "staticwebassets\\js\\constructionappnng-firebase-adminsdk-fbsvc-7beba39edf.json"
     },
     {
       "Id": "C:\\Users\\lab_services_student\\Desktop\\GitHub\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\wwwroot\\js\\site.js",

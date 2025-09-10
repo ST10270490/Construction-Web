@@ -14,10 +14,12 @@ const firebaseConfig = {
 initializeApp(firebaseConfig);
 const auth = getAuth();
 
-document.getElementById("authForm").addEventListener("submit", function (e) {
+
+
+document.getElementById("loginForm").addEventListener("submit", function (e) {
     e.preventDefault();
-    const email = document.getElementById("emailInput").value;
-    const password = document.getElementById("passwordInput").value;
+    const email = document.getElementById("loginEmail").value;
+    const password = document.getElementById("loginPassword").value;
 
     signInWithEmailAndPassword(auth, email, password)
         .then((userCredential) => {
@@ -25,21 +27,51 @@ document.getElementById("authForm").addEventListener("submit", function (e) {
             bootstrap.Modal.getInstance(document.getElementById("authModal")).hide();
         })
         .catch((error) => {
-            if (error.code === "auth/invalid-login-credentials") {
-                // Try signup instead
-                createUserWithEmailAndPassword(auth, email, password)
-                    .then((userCredential) => {
-                        document.getElementById("authMessage").textContent = "Account created!";
-                        bootstrap.Modal.getInstance(document.getElementById("authModal")).hide();
-                    })
-                    .catch((signupError) => {
-                        document.getElementById("authMessage").textContent = signupError.message;
-                    });
-            } else {
-                document.getElementById("authMessage").textContent = error.message;
+            let message = "Login failed: ";
+            switch (error.code) {
+                case "auth/user-not-found":
+                    message += "No account found with this email.";
+                    break;
+                case "auth/wrong-password":
+                    message += "Incorrect password.";
+                    break;
+                case "auth/invalid-email":
+                    message += "Invalid email format.";
+                    break;
+                default:
+                    message += error.message;
             }
+            document.getElementById("authMessage").textContent = message;
         });
+});
 
+document.getElementById("signupForm").addEventListener("submit", function (e) {
+    e.preventDefault();
+    const email = document.getElementById("signupEmail").value;
+    const password = document.getElementById("signupPassword").value;
+
+    createUserWithEmailAndPassword(auth, email, password)
+        .then((userCredential) => {
+            document.getElementById("authMessage").textContent = "Account created successfully!";
+            bootstrap.Modal.getInstance(document.getElementById("authModal")).hide();
+        })
+        .catch((error) => {
+            let message = "Signup failed: ";
+            switch (error.code) {
+                case "auth/email-already-in-use":
+                    message += "This email is already registered.";
+                    break;
+                case "auth/weak-password":
+                    message += "Password should be at least 6 characters.";
+                    break;
+                case "auth/invalid-email":
+                    message += "Invalid email format.";
+                    break;
+                default:
+                    message += error.message;
+            }
+            document.getElementById("authMessage").textContent = message;
+        });
 });
 
 

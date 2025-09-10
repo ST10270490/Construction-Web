@@ -1,4 +1,7 @@
 using ConstructionWeb.Models;
+using FirebaseAdmin;
+using FirebaseAdmin.Auth;
+using Google.Apis.Auth.OAuth2;
 using Microsoft.AspNetCore.Builder.Extensions;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
@@ -21,15 +24,17 @@ namespace ConstructionWeb.Controllers
 
         public IActionResult Index()
         {
-            
+            string uid = HttpContext.Session.GetString("FirebaseUid");
+
+
             return View();
         }
         [HttpPost]
-public async Task<ActionResult> VerifyToken([FromBody] TokenRequest request)
+        public async Task<ActionResult> VerifyToken([FromBody] TokenRequest request)
         {
             var firebaseApp = FirebaseApp.Create(new AppOptions()
             {
-                Credential = GoogleCredential.FromFile("path/to/your/serviceAccountKey.json")
+                Credential = GoogleCredential.FromFile("wwwroot\\js\\constructionappnng-firebase-adminsdk-fbsvc-7beba39edf.json")
             });
 
             var auth = FirebaseAuth.GetAuth(firebaseApp);
@@ -37,6 +42,8 @@ public async Task<ActionResult> VerifyToken([FromBody] TokenRequest request)
             string uid = decodedToken.Uid;
 
             // Now you can use the UID in your backend logic
+            HttpContext.Session.SetString("FirebaseUid", uid);
+
             return Json(new { userId = uid });
         }
 

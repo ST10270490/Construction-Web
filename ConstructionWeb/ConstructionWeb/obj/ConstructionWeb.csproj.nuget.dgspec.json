@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\ConstructionWeb.csproj": {}
+    "C:\\Users\\lab_services_student\\Desktop\\GitHub\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\ConstructionWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\ConstructionWeb.csproj": {
+    "C:\\Users\\lab_services_student\\Desktop\\GitHub\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\ConstructionWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\ConstructionWeb.csproj",
+        "projectUniqueName": "C:\\Users\\lab_services_student\\Desktop\\GitHub\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\ConstructionWeb.csproj",
         "projectName": "ConstructionWeb",
-        "projectPath": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\ConstructionWeb.csproj",
-        "packagesPath": "C:\\Users\\Vashi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vashi\\Desktop\\Github\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\obj\\",
+        "projectPath": "C:\\Users\\lab_services_student\\Desktop\\GitHub\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\ConstructionWeb.csproj",
+        "packagesPath": "C:\\Users\\lab_services_student\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lab_services_student\\Desktop\\GitHub\\Construction-Web\\ConstructionWeb\\ConstructionWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Vashi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lab_services_student\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,12 +44,20 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "FirebaseAdmin": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[8.6.0, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[9.0.0, )"
@@ -79,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
